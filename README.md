@@ -2,4 +2,4 @@
 
 # ><>
 
-.fisher
+.fish
