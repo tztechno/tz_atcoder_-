@@ -5,3 +5,5 @@
 .fish
 
 Ponnosuke
+
+https://esolangs.org/wiki/Fish
