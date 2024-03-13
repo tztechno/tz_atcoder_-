@@ -2,6 +2,18 @@ sample from Ponnosuke
 ##############################################
 ##############################################
 ##############################################
+12345 3[  r  ]  rnnnnn;
+  ^    ^  ^  ^     ^
+  |    |  |  |     | Output: 12543. The three top values were reversed!
+  |    |  |  |
+  |    |  |  | The second stack is removed, putting its values back to the first stack.
+  |    |  |
+  |    |  | The second stack is reversed.
+  |    |
+  |    | A second stack is created, pulling 3 values from the first stack
+  |
+  | Numbers 1-5 are pushed onto the first stack.
+
 ##############################################
 //hello
 >"Hello World!"0r>o:?v;
