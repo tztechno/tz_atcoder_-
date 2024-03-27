@@ -10,6 +10,8 @@ fishr 0.1.0
 
 https://esolangs.org/wiki/Fish
 
+https://suppen.no/fishlanguage/
+
 Movement and execution
 ```
  > < ^ v	Change the direction of the instruction pointer (right, left, up, down respectively)
