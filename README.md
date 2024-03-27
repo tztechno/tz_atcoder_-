@@ -14,6 +14,8 @@ https://suppen.no/fishlanguage/
 
 https://github.com/Suppen/fishlanguage
 
+https://tio.run/#fish
+
 Movement and execution
 ```
  > < ^ v	Change the direction of the instruction pointer (right, left, up, down respectively)
