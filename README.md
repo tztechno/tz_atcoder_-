@@ -6,7 +6,7 @@
 
 Ponnosuke
 
-
+fishr 0.1.0
 
 https://esolangs.org/wiki/Fish
 
